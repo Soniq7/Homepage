@@ -1,0 +1,22 @@
+
+.header__button {
+    padding: 5px;
+    margin: 10px;
+    box-shadow: 0px -2px 23px 3px rgba(160, 146, 118, 0.70);
+    border: 1px solid currentColor;
+    border-radius: 10px 5px;
+    background-color: inherit;
+    font-family: "Montserrat", sans-serif;
+    cursor: pointer;
+}
+
+.header__button:hover {
+    box-shadow: inset -1px -1px 20px -1px rgba(160, 146, 118, 0.70);
+}
+
+.header__image {
+    width: 100%;
+    box-shadow: 0px 10px 20px 20px rgba(160, 146, 118, 0.70);
+    border: 2px solid #45344b;
+    border-radius: 90px 5px;
+}

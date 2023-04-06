@@ -1,0 +1,68 @@
+.section {
+    padding: 50px 0px;
+}
+
+.section__image {
+    width: 100%;
+    margin: 0 auto;
+    border: 2px solid #f5cb95;
+    border-radius: 90px 5px;
+}
+
+.section__image--subSection {
+    max-width: 450px;
+    margin-top: 50px;
+}
+
+.section__image--contact {
+    max-width: 650px;
+}
+
+.section__header {
+    padding: 30px 0px;
+    margin: 10px;
+    font-size: 1.5em;
+}
+
+.section__header--topBottom {
+    padding: 30px 0px 30px 0px;
+    margin: 10px;
+}
+
+.section__paragraph {
+    padding: 5px;
+}
+
+.section__list {
+    padding: 0%;
+}
+
+.section__item {
+    margin: 10px 0;
+}
+
+.section__container {
+    overflow-x: auto;
+}
+
+.section__facebookLink {
+    color: #5b0a6b;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.section__facebookLink:visited {
+    color: #9e7d52;
+}
+
+.section__facebookLink:focus {
+    outline: 1px solid currentColor;
+}
+
+.section__facebookLink:hover {
+    color: #a058a0;
+}
+
+.section__facebookLink:active {
+    color: #2a1d2e;
+}

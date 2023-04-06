@@ -1,0 +1,17 @@
+.aside {
+    max-width: 30%;
+    display: table-row;
+    margin: 5px 20px;
+    font-size: 13px;
+    text-align: center;
+}
+
+.aside__header {
+    padding: 30px 0px;
+    margin: 10px;
+    font-size: 1.5em;
+}
+
+.aside__paragraph {
+    padding: 5px;
+}
