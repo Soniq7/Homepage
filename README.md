@@ -8,4 +8,4 @@ Introducing my first webpage (demo version) - it's still being worked on.
 
 # Demo
 
-https://github.com/Soniq7/Homepage.git
+https://soniq7.github.io/Homepage/
