@@ -8,7 +8,7 @@ Introducing my first webpage (demo version) - it's still being worked on.
 
 ## Description
 
-Homepage is based on my husband's beekeeping business in UK called *Ben's Honey Bee Farm* and consists of three sections:
+It's a simple Homepage based on my husband's beekeeping business in UK called *Ben's Honey Bee Farm* - it's consisted of three main sections:
 
 - **About us** - with short description of the business, its beginnings and experience
 - **Bee Farm** - introduses: importance of bees, company's focus, and beekeeping products on offer
