@@ -14,8 +14,12 @@
         button.addEventListener("click", toggleBackground);
     };
 
-    welcome();
-    toggleBackground();
+    const init = () => {
+        toggleBackground();
+        welcome();
+    };
+
+    init();
 
 }
 
