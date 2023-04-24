@@ -14,18 +14,18 @@ It's a simple Homepage based on my husband's beekeeping business in UK called *B
 
 ## Programing languages used:
 
-HTML
-CSS
-JS (JavaScript)
-Markdown
+- HTML
+- CSS
+- JS (JavaScript)
+- Markdown
 
 ## Techlonolgy used:
 
-HTML Syntax: body, header, button, div, navigation, list (ul), main, section, paragraphs, headings, aside, images, a- links, table, footer
-CSS box model, box-sizing, normalize css, font-family, outline and box-shadow styling: / links / button / imges / fonts / tables / aside / sections etc., background color, responsivity
-BEM convention
-ES6+ features
-JS Arrow functions, backgroung color toggle function, addEvenetListiner, console.log
+- HTML Syntax: body, header, button, div, navigation, list (ul), main, section, paragraphs, headings, aside, images, a- links, table, footer
+- CSS box model, box-sizing, normalize css, font-family, outline and box-shadow styling: / links / button / imges / fonts / tables / aside / sections etc., background color, responsivity
+- BEM convention
+- ES6+ features
+- JS Arrow functions, backgroung color toggle function, addEvenetListiner, console.log
 
 # Demo
 
