@@ -2,21 +2,30 @@
 
 Hi!
 
-Introducing my first webpage (demo version) - it's still being worked on.
+Introducing my first webpage (demo version) - it's still being worked on as part of the YouCode course homework.
 
 ![Bens Honey](https://github.com/Soniq7/Homepage/blob/main/images/heather-hills.jpg?raw=true)
 
 ## Description
 
-It's a simple Homepage based on my husband's beekeeping business in UK called *Ben's Honey Bee Farm* - it's consisted of three main sections:
-
-- **About us** - with short description of the business, its beginnings and experience
-- **Bee Farm** - introduses: importance of bees, company's focus, and beekeeping products on offer
-- **Contact us** - company contact details and Feacebook page for those further interested.
+It's a simple Homepage based on my husband's beekeeping business in UK called *Ben's Honey Bee Farm*.
 
 
 
-Below link to demo version -  you are very welcome to view and explore the code :)
+## Programing languages used:
+
+HTML
+CSS
+JS (JavaScript)
+Markdown
+
+## Techlonolgy used:
+
+HTML Syntax: body, header, button, div, navigation, list (ul), main, section, paragraphs, headings, aside, images, a- links, table, footer
+CSS box model, box-sizing, normalize css, font-family, outline and box-shadow styling: / links / button / imges / fonts / tables / aside / sections etc., background color, responsivity
+BEM convention
+ES6+ features
+JS Arrow functions, backgroung color toggle function, addEvenetListiner, console.log
 
 # Demo
 
