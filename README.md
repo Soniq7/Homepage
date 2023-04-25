@@ -12,7 +12,7 @@ It's a simple Homepage based on my husband's beekeeping business in UK called *B
 
 
 
-## Programing languages used:
+## Programming languages used:
 
 - HTML
 - CSS
@@ -21,7 +21,6 @@ It's a simple Homepage based on my husband's beekeeping business in UK called *B
 
 ## Techlonolgy used:
 
-- HTML Syntax: body, header, button, div, navigation, list (ul), main, section, paragraphs, headings, aside, images, a- links, table, footer
 - CSS box model, box-sizing, normalize css, font-family, outline and box-shadow styling: / links / button / imges / fonts / tables / aside / sections etc., background color, responsivity
 - BEM convention
 - ES6+ features
