@@ -2,15 +2,14 @@
 
 Hi!
 
-Introducing my first webpage (demo version) - it's still being worked on as part of the YouCode course homework.
+Introducing my first webpage (demo version).
+This page is still being worked on, as part of my YouCode course homework.
 
 ![Bens Honey](https://github.com/Soniq7/Homepage/blob/main/images/heather-hills.jpg?raw=true)
 
 ## Description
 
 It's a simple Homepage based on my husband's beekeeping business in UK called *Ben's Honey Bee Farm*.
-This page is still being worked on, as part of my YouCode course homework.
-
 
 
 ## Programming languages used:
